@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alisha Malik</h1>
+<h1 align="center">Hi, I'm Alisha 👋</h1>
 <h3 align="center">Computer Science student at the University of Calgary | Passionate about problem-solving, backend development, and exploring new technologies</h3>
 
 ---
