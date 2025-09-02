@@ -3,7 +3,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 <p align="left">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
@@ -27,7 +27,7 @@
 
 ---
 
-### ⚡ About Me
-- 🎓 Computer Science student at the **University of Calgary**  
-- 💻 Focused on **backend development, testing, and microservices**  
-- 🚀 Passionate about **learning new technologies** and solving problems efficiently  
+### About Me
+- Computer Science student at the **University of Calgary**  
+- Focused on **backend development, testing, and microservices**  
+- Passionate about **learning new technologies** and solving problems efficiently  
